@@ -1,0 +1,19 @@
+1.Creer un compte git hub.
+2.Deployer le projet cours2 sur GITHUB.
+3.Acceder a la page.
+
+
+
+
+
+
+
+PRATIQUE
+1.Creer dans le dossier : js le fichier Script3.js
+
+2.Lier script3.js a page2.html
+
+3.Creer une fonction pour dire "Bonjour Monsieur" 20 fois avec la boucle "for"
+et chaque Bonjour doit numorote
+
+
